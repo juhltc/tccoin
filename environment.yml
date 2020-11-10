@@ -11,3 +11,5 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - pip:
+    - import_ipynb
