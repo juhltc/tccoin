@@ -1,31 +1,15 @@
-# Conda environment with environment.yml
+# TC-COIN kode
 
+Velkommen til den digitale samling! Her finder I alt den kode som vi får produceret i weekenden.
+I kan finde alt kode, ved at trykke på linket:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/juhltc/tccoin/master)
 
-A Binder-compatible repo with an `environment.yml` file.
+Bemærk at det godt kan tage noget tid at hente samlingen, så hav god tålmodighed. I er velkomne
+til at se jeg omkring og prøve alt det I kan komme I tanke om af- så vidt jeg kan se, 
+kan I ikke ændre noget permanent via linket.
 
-Access this Binder by clicking the blue badge above or at the following URL:
+Det betyder også at hvis I finder på noget smart, eller gerne vil have det lokalt, så skal I i stedet
+hente filerne ned lokalt. Ellers har jeg mulighed for at tilføje jeres kode, så skriv til mig!
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
-
-## Notes
-The `environment.yml` file should list all Python libraries on which your notebooks
-depend, specified as though they were created using the following `conda` commands:
-
-```
-conda activate example-environment
-conda env export --from-history -f environment.yml
-```
-
-Note that the only libraries available to you will be the ones specified in
-the `environment.yml`, so be sure to include everything that you need! 
-
-Also note that if you skip the `--from-history`, conda may include OS-specific
-packages in `environment.yml`, which you would have to manually prune from
-`environment.yml`.  For example, confirmed macOS-specific packages that should
-be removed are:
-
-* libcxxabi=4.0.1
-* appnope=0.1.0
-* libgfortran=3.0.1
-* libcxx=4.0.1
+Rasmus Juhl Christensen
+Aspirantgruppen, TalentCampDK
