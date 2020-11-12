@@ -12,4 +12,5 @@ Det betyder også at hvis I finder på noget smart, eller gerne vil have det lok
 hente filerne ned lokalt. Ellers har jeg mulighed for at tilføje jeres kode, så skriv til mig!
 
 Rasmus Juhl Christensen
+
 Aspirantgruppen, TalentCampDK
