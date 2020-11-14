@@ -6,7 +6,7 @@ I kan finde alt kode, ved at trykke på linket:
 
 Guide: Når I går ind, så bliv I spurgt efter en Kernel. Bare vælg muligheden 'Set Kernel'. Derefter vælg
 fanen 'Kernel' og vælg 'Restart and Run All'. Herefter skulle alt virke.
-I kan trykke på '+' tegnet i højre side, for at tilføje nye felter, som I kan skrive I.
+I kan trykke på '+' tegnet i venstre side, for at tilføje nye felter, som I kan skrive I.
 
 Bemærk at det godt kan tage noget tid at hente samlingen, så hav god tålmodighed. I er velkomne
 til at se jeg omkring og prøve alt det I kan komme I tanke om af- så vidt jeg kan se, 
